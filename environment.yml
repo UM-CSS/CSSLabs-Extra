@@ -11,7 +11,7 @@ dependencies:
   - cartopy
   - descartes
   - fiona
-  - bz2
+  - bzip2 
   - requests
-  - shapefile
+  - pyshp
   - shapely
