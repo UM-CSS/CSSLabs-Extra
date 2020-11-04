@@ -14,4 +14,4 @@ dependencies:
   - bz2
   - requests
   - shapefile
-  shapely
+  - shapely
