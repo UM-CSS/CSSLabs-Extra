@@ -1,0 +1,17 @@
+name: taxi-environment
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - tqdm
+  - cartopy
+  - descartes
+  - fiona
+  - bz2
+  - requests
+  - shapefile
+  shapely
